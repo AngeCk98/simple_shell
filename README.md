@@ -1,1 +1,9 @@
-c- Simple Shell
+Authors: Chrisvy Koubangou and Uluthando Madalane
+
+We were requested to create a simple shell in the ALX programme. Our objectives were:
+-How does a shell work What is a pid and a ppid 
+-How to manipulate the environment of the current process
+-What is the difference between a function and a system call 
+-How to create processes What are the three prototypes of main 
+-How does the shell use the PATH to find the programs 
+-How to execute another program with the exacted system call
